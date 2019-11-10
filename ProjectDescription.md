@@ -58,7 +58,7 @@ The project repository contains a number of discrete and continuous datasets. Ea
 ## Publications 
 
 
-Harmon, T. C., D. Dierick, N. Trahan, M. F. Allen, P. W. Rundel, S. F. Oberbauer, L. Schwendenmann, and T. J. Zelikova. 2015. Low-cost soil CO2 efflux and point concentration sensing systems for terrestrial ecology applications. Methods in Ecology and Evolution, 6: 1358-1362. doi:10.1111/2041-210X.12426
+Harmon, T. C., D. Dierick, N. Trahan, M. F. Allen, P. W. Rundel, S. F. Oberbauer, L. Schwendenmann, and T. J. Zelikova. 2015. Low-cost soil CO2 efflux and point concentration sensing systems for terrestrial ecology applications. Methods in Ecology and Evolution, 6: 1358-1362. https://doi.org/10.1111/2041-210X.12426
 
 Swanson, A. C., L. Schwendenmann, M. F. Allen, E. L. Aronson. A. Artavia-León, D. Dierick, A. S. Fernandez-Bou, T. C. Harmon, C. Murillo-Cruz, S. F. Oberbauer, A. A. Pinto-Tomas, P. W. Rundel, and T. J. Zelikova. 2019. Welcome to the Atta world: A framework for understanding the effects of leaf-cutter ants on ecosystem functions. Functional Ecology, 33: 1386– 1399. https://doi.org/10.1111/1365-2435.13319
 
