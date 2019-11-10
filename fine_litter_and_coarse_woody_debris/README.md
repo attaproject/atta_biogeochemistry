@@ -24,6 +24,7 @@ Column four contains the date samples were collected. Typically all samples wre 
 
 Columns six to 8 give the dry weights of the fine litter and CWD leaf and wood fractions in grams. The Sample ID column has the labels assigned to stored physical samples, while the last column contains any comment relevant to the respective sample.
 &nbsp;
+
 | Plot | Site | Nest | Date sampled | CollectDays | Fine Litter | CWD Leaf | CWD Wood | Sample IDs | Comments | 
 |:----:|:----:|:----:|:------------:|:-----------:|:-----------:|:--------:|:--------:|:----------:|:--------:|
 |      |      |      | (yyyy-mm-dd)	|     (-)     |     (gDW)   |   (gDW)  |   (gDW)  |    (-)     |    (-)   |
