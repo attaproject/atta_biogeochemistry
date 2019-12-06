@@ -74,7 +74,7 @@ Swanson, A. C., L. Schwendenmann, M. F. Allen, E. L. Aronson. A. Artavia-León, 
 
 ## Funding
 
-#### National Science Foundation 
+### National Science Foundation 
 
 [Collaborative Proposal - Quantifying the footprint of a dominant organism: Biogeochemical impacts of leaf cutter ants in a lowland tropical forest ecosystem](https://nsf.gov/awardsearch/showAward?AWD_ID=1442568)  
 Collaborative Award DEB-1442537, 1442568, 1442622, 1442714  

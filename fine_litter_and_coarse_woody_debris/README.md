@@ -35,6 +35,9 @@ Columns six to 8 give the dry weights of the fine litter and CWD leaf and wood f
 
 ## Credits
 
-When using this data please reference as follows:
+When citing this dataset please reference as follows:
+
+Tamara Jane Zelikova, Thomas Harmon, Michael F. Allen, Steven F. Oberbauer, Diego Dierick, Luitgard Schwendenmann, Adrian A. Pinto-Tomas, Philip W. Rundel, Catalina Murillo, Amanda Swanson, Nicole Trahan, Michael Meredyth-Young, Angel S. Fernandez-Bou, Jules Cooch, Suzanne Henderson, Anna DiPaola, William Kinn, Deo Lachman, Utsarga Bhattarai, Odemaris Carrasquillo Quintana, Shaquetta Johnson, Ana Grace Alvarado, and Yorelyz Rodriguez-Reyes. 2019. ATTA Biogeochemistry Data Collection. Zenodo. http://doi.org/10.5281/zenodo.3268830.
+
 
 

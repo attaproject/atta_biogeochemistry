@@ -1,5 +1,5 @@
 {
-  "title": "ATTA Biogeochemistry",
+  "title": "ATTA Biogeochemistry Data Collection",
   "description": "Datasets collected as part of the collaborative projects studying the impact of leaf cutter ants (Atta cephalotes) on biogeochemical cycling in tropical rainforest soils.",
   "creators": [
     {
@@ -121,8 +121,17 @@
   "keywords": [
     "Atta cephalotes",
     "biogeochemistry",
+    "coarse woody debris",
+    "Costa Rica",
     "ecology",
-    "soil carbon"
+    "La Selva Biological Station",
+    "leaf cutter ant",
+    "litter",
+    "refuse dumps",
+    "soil alteration",
+    "soil carbon",
+    "soil pH",
+    "topical forest"
   ],
   "license": "cc-by-4.0",
   "upload_type": "dataset"
