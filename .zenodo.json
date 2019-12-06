@@ -1,10 +1,126 @@
 {
   "title": "ATTA Biogeochemistry",
   "description": "Datasets collected as part of the collaborative projects studying the impact of leaf cutter ants (Atta cephalotes) on biogeochemical cycling in tropical rainforest soils.",
-  
+  "creators": [
+    {
+      "affiliation": "University of Wyoming",
+      "name": "Tamara Jane Zelikova"
+    },
+    {
+      "affiliation": "University of California: Merced",
+      "name": "Thomas Harmon",
+      "orcid": "0000-0001-7105-7133"
+    },
+    {
+      "affiliation": "University of California: Riverside",
+      "name": "Michael F. Allen",
+      "orcid": "0000-0001-5200-8758"
+    },
+    {
+      "affiliation": "Florida International University",
+      "name": "Steven F. Oberbauer",
+      "orcid": "0000-0001-5404-1658"
+    },
+    {
+      "affiliation": "University of Wyoming",
+      "name": "Diego Dierick",
+      "orcid": "0000-0002-4854-3819"
+    },
+    {
+      "affiliation": "University of Auckland",
+      "name": "Luitgard Schwendenmann",
+      "orcid": "0000-0002-2290-3003"
+    },
+    {
+      "affiliation": "University of Costa Rica",
+      "name": "Adrian A. Pinto-Tomas",
+      "orcid": "0000-0003-2369-1054"
+    },
+    {
+      "affiliation": "University of California: Los Angeles",
+      "name": "Philip W. Rundel",
+      "orcid": "0000-0002-9455-2302"
+    },
+    {
+      "affiliation": "University of Costa Rica",
+      "name": "Catalina Murillo"
+    },
+    {
+      "affiliation": "University of California: Riverside",
+      "name": "Amanda Swanson"
+    },
+    {
+      "affiliation": "University of Arizona",
+      "name": "Nicole Trahan"
+    },
+    {
+      "affiliation": "University of Auckland",
+      "name": "Michael Meredyth-Young"
+    },
+    {
+      "affiliation": "University of California: Merced",
+      "name": "Angel S. Fernandez-Bou",
+      "orcid": "0000-0001-9947-0747"
+    },
+    {
+      "affiliation": "University of Michigan",
+      "name": "Jules Cooch"
+    },
+    {
+      "affiliation": "University of Georgia",
+      "name": "Suzanne Henderson"
+    },
+    {
+      "affiliation": "University of California: San Diego",
+      "name": "Anna DiPaola"
+    },
+    {
+      "affiliation": "Colorado State University",
+      "name": "William Kinn"
+    },
+    {
+      "affiliation": "University of Wyoming",
+      "name": "Deo Lachman"
+    },
+    {
+      "affiliation": "Colorado College",
+      "name": "Utsarga Bhattarai"
+    },
+    {
+      "affiliation": "University of Puerto Rico: Mayagüez",
+      "name": "Odemaris Carrasquillo Quintana"
+    },
+    {
+      "affiliation": "Jackson State University",
+      "name": "Shaquetta Johnson"
+    },
+    {
+      "affiliation": "College of Saint Benedict and Saint John's University",
+      "name": "Ana Grace Alvarado"
+    },
+    {
+      "affiliation": "University of Puerto Rico: Rio Piedras",
+      "name": "Yorelyz Rodriguez-Reyes"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/100000001::1442714"
+    },
+    {
+      "id": "10.13039/100000001::1624623"
+    }
+  ],
+  "references": [
+      "Allen, MF (2016). If you want to understand nature, stick your head in the sand! Interdisciplinary Journal of Landscape Architecture",
+      "Aronson, EL, Dierick, D, Botthoff, JK, Oberbauer, S, Zelikova, TJ, Harmon, TC, Rundel, P, Johnson, RF, Swanson, AC, Pinto-Tomas, AA, Artavia-Leon, A, Matarrita-Carranza, B, Allen, MF (2019). ENSO-influenced drought drives methane flux dynamics in a tropical wet forest soil. Journal of Geophysical Research: Biogeosciences. https://doi.org/10.1029/2018JG004832",
+      "Fernandez-Bou, AS, Dierick, D, Swanson, AC, Allen, MF, Alvarado, AGF, Artavia-León, A, Carrasquillo-Quintana, O, Lachman, DA, Oberbauer, S, Pinto-Tomás, AA, Rodríquez-Reyes, Y, Rundel, P, Schwendenmann, L, Zelikova, TJ, Harmon, TC (2019). The role of the ecosystem engineer, the leaf-cutter ant Atta cephalotes, on soil CO2 dynamics in a wet tropical rainforest. Journal of Geophysical Research: Biogeosciences. https://doi.org/10.1029/2018JG004723",      
+      "Harmon, TC, Dierick, D, Trahan, N, Allen, MF, Rundel, PW, Oberbauer, SF, Schwendenmann, L, Zelikova TJ (2015). Low-cost soil CO2 efflux and point concentration sensing systems for terrestrial ecology applications. Methods in Ecology and Evolution. https://doi.org/10.1111/2041-210X.12426",
+      "Swanson, AC, Schwendenmann, L, Allen, MF, Aronson EL, Artavia-León, A, Dierick, D, Fernandez-Bou, AS, Harmon, TC, Murillo-Cruz, C, Oberbauer, SF, Pinto-Tomás, AA, Rundel, PW, Zelikova, TJ (2019). Welcome to the Atta world. A framework for understanding the effects of lead-cutter ants on ecosystem functions. Functional Ecology. https://doi.org/10.1111/1365-2435.13319" 
+  ],
   "keywords": [
     "Atta cephalotes",
-    "biogeochemistry".
+    "biogeochemistry",
     "ecology",
     "soil carbon"
   ],
