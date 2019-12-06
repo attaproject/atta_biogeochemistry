@@ -46,7 +46,7 @@ Mention whatever data we have that does not follow plot layout (I’m thinking d
 The project repository contains a number of discrete and continuous datasets. Each lives in its own folder with detailed metadata in associated README files.
 
 * [Fine litter and coarse woody debris](https://github.com/attaproject/atta_biogeochemistry/blob/master/fine_litter_and_coarse_woody_debris)
-* [Soil pH](https://github.com/attaproject/atta_biogeochemistry/blob/master/soil_ph)
+* [Soil solution pH](https://github.com/attaproject/atta_biogeochemistry/blob/master/soil_solution_ph)
 * [Soil Ecological Observatory](https://github.com/attaproject/atta_biogeochemistry/blob/master/soil_ecological_observatory): soil water content, temperature, and soil electrical conductivity as well as CO2 and O2 profiles for selected nests and a single control site
 * Soil lysimeter
 * Soil biogeochemistry
@@ -57,13 +57,38 @@ The project repository contains a number of discrete and continuous datasets. Ea
 
 ## Publications 
 
+Allen, M.F. 2016. If you want to understand nature, stick your head in the sand! Interdisciplinary Journal of Landscape Architecture, 4:16-21.
+
+Aronson, E. L., D. Dierick, J. K. Botthoff, S. Oberbauer, T. J. Zelikova, T. C. Harmon, P. Rundel, R. F. Johnson, A. C. Swanson, A. A. Pinto-Tomas, A. Artavia-Leon, B. Matarrita-Carranza, and M. F. Allen. 2019. ENSO-influenced drought drives methane flux dynamics in a tropical wet forest soil. Journal of Geophysical Research: Biogeosciences, 124: 2267-2276. https://doi.org/10.1029/2018JG004832
+
+Fernandez-Bou, A. S., D. Dierick, A. C. Swanson, M. F. Allen, A. G. F. Alvarado, A. Artavia-León, O. Carrasquillo-Quintana, D. A. Lachman, S. Oberbauer, A. A. Pinto-Tomás, Y. Rodríquez-Reyes, P. Rundel, L. Schwendenmann, T. J. Zelikova, and T. C. Harmon. 2019. The role of the ecosystem engineer, the leaf-cutter ant Atta cephalotes, on soil CO2 dynamics in a wet tropical rainforest. Journal of Geophysical Research: Biogeosciences, 124: 260–273. https://doi.org/10.1029/2018JG004723
 
 Harmon, T. C., D. Dierick, N. Trahan, M. F. Allen, P. W. Rundel, S. F. Oberbauer, L. Schwendenmann, and T. J. Zelikova. 2015. Low-cost soil CO2 efflux and point concentration sensing systems for terrestrial ecology applications. Methods in Ecology and Evolution, 6: 1358-1362. https://doi.org/10.1111/2041-210X.12426
 
 Swanson, A. C., L. Schwendenmann, M. F. Allen, E. L. Aronson. A. Artavia-León, D. Dierick, A. S. Fernandez-Bou, T. C. Harmon, C. Murillo-Cruz, S. F. Oberbauer, A. A. Pinto-Tomas, P. W. Rundel, and T. J. Zelikova. 2019. Welcome to the Atta world: A framework for understanding the effects of leaf-cutter ants on ecosystem functions. Functional Ecology, 33: 1386– 1399. https://doi.org/10.1111/1365-2435.13319
 
 
-Fernandez-Bou, A. S., D. Dierick, A. C. Swanson, M. F. Allen, A. G. F. Alvarado, A. Artavia-León, O. Carrasquillo-Quintana, D. A. Lachman, S. Oberbauer, A. A. Pinto-Tomás, Y. Rodríquez-Reyes, P. Rundel, L. Schwendenmann, T. J. Zelikova, and T. C. Harmon. 2019. The role of the ecosystem engineer, the leaf-cutter ant Atta cephalotes, on soil CO2 dynamics in a wet tropical rainforest. Journal of Geophysical Research: Biogeosciences, 124: 260–273. https://doi.org/10.1029/2018JG004723
 
 
-Aronson, E. L., D. Dierick, J. K. Botthoff, S. Oberbauer, T. J. Zelikova, T. C. Harmon, P. Rundel, R. F. Johnson, A. C. Swanson, A. A. Pinto-Tomas, A. Artavia-Leon, B. Matarrita-Carranza, and M. F. Allen. 2019. ENSO-influenced drought drives methane flux dynamics in a tropical wet forest soil. Journal of Geophysical Research: Biogeosciences, 124: 2267-2276. https://doi.org/10.1029/2018JG004832
+
+
+## Funding
+
+#### National Science Foundation 
+
+[Collaborative Proposal - Quantifying the footprint of a dominant organism: Biogeochemical impacts of leaf cutter ants in a lowland tropical forest ecosystem](https://nsf.gov/awardsearch/showAward?AWD_ID=1442568)
+Collaborative Award DEB-1442537, 1442568, 1442622, 1442714
+PIs: Drs. Tamara Jane Zelikova, Michael Allen, Thomas Harmon, Steve Oberbauer	, 
+
+[RAPID: Collaborative Research: ENSO and Tropical Rain Forest Soil Carbon (CH4, CO2) Fluxes](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1624623)
+Collaborative Award DEB-1624623, 1624658
+PIs: Drs. Michael Allen, Emma L. Aronson, Thomas Harmon	
+
+REU: Collaborative Research: Quantifying the footprint of a dominant organism: Biogeochemical impacts of leaf cutter ants in a lowland tropical forest ecosystem
+PI: Dr. Tamara Jane Zelikova
+
+
+
+
+
+
