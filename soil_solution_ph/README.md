@@ -7,7 +7,7 @@ This section of the repository contains data on the pH of soil water collected u
 
 The figure below gives an overview of the setup used in the field to collect soil water samples. Central in the plots three lysimeters were installed at depths of 20, 60 and 100cm, each with a 500ml collection bottle attached. Collection bottles were housed in a capped piece of PVC pipe to avoid light affecting samples. At each site a single below-canopy throughfall sample was collected in a foil covered 250ml bottle with 10cm funnel located adjacent to the centrally located plot. In the same way a single precipitation sample was collected in a nearby open area \<2 km away from the study sites. 
 
-![Plot Layout](PlotLayoutSoilWater.jpg)
+![Plot Layout](PlotLayout_pH.jpg)
 
 Soil water samples were collected at monthly intervals for the duration of the project. At the start of each sampling campaign all lysimeters and attached lysimeters were placed under partial vacuum. The suction applied was 50kPa, 55kPa and 60kPa for samplers at 20, 60 and 100cm depth respectively. This approximately compensates for the height difference between sampling depth and collection bottle and maintains a fixed 45 to 50kPa vacuum at the sample point (at least initially). After a couple of days all water was removed from the samplers and collection bottles in order to rinse the setup and the vacuum was applied again to start the actual sampling. Lysimeters were left to sample for up to four days (typically 2 or 3) and samples were collected in polypropylene bottles. Under dry conditions a second sampling was performed to collect sufficient sample volume for pH measurement and sample analysis (see soil water chemistry). Samples were stored refrigerated until pH measurements were made, typically <24h after the last sample collection. If applicable, equal parts of two collection batches were pooled and the pH was measured on a pH211 Hanna Instruments meter. The pH meter was calibrated using 4.01 and 7.00 standards for each set of samples measured.
 
@@ -15,6 +15,7 @@ Soil water samples were collected at monthly intervals for the duration of the p
 
 The dataset was compiled into a single spreadsheet. Each collection round corresponds to 49 lines of data. This follows from the fact we had 3 sites with 5 plots each (the third control replicate was not sampled) and 3 sampling depths plus a below-canopy throughfall sample at each site and a precipitation sample. Below a view of the header and first few lines of the dataset. Column headers are pretty self-explanatory.
 &nbsp;
+
 | Plot | Site | Nest | Depth | TagNr | Date sampled | pH | Comments | 
 |:----:|:----:|:----:|:-----:|:-----:|:------------:|:--:|:--------:|
 |      |      |      |  (cm) |  (-)  | (yyyy-mm-dd) |(-) | (-) |
