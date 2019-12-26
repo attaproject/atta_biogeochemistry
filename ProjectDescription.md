@@ -78,7 +78,7 @@ Swanson, A. C., L. Schwendenmann, M. F. Allen, E. L. Aronson. A. Artavia-León, 
 
 [Collaborative Proposal - Quantifying the footprint of a dominant organism: Biogeochemical impacts of leaf cutter ants in a lowland tropical forest ecosystem](https://nsf.gov/awardsearch/showAward?AWD_ID=1442568)  
 Collaborative Award DEB-1442537, 1442568, 1442622, 1442714  
-PIs: Drs. Tamara Jane Zelikova, Michael Allen, Thomas Harmon, Steve Oberbauer  	, 
+PIs: Drs. Tamara Jane Zelikova, Michael Allen, Thomas Harmon, Steve Oberbauer  	
 
 [RAPID: Collaborative Research: ENSO and Tropical Rain Forest Soil Carbon (CH4, CO2) Fluxes](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1624623)  
 Collaborative Award DEB-1624623, 1624658  
